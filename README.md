@@ -4,9 +4,9 @@
 ---
 <div>
 <p align="center">
-  <a href=https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=reactjs-interview-questions>
+  
     ABT
-  </a>
+ 
    
   </p>
 </div>
